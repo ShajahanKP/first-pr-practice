@@ -13,3 +13,9 @@ from textutils import slugify
 
 slugify("Hello, World!")  # "hello-world"
 ```
+
+## Running tests
+
+```bash
+python3 -m unittest -v
+```
